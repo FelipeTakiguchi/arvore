@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\arvore\arvore\bin\Debug\net6.0\arvore.exe
+C:\Users\Aluno\Desktop\arvore\arvore\bin\Debug\net6.0\arvore.deps.json
+C:\Users\Aluno\Desktop\arvore\arvore\bin\Debug\net6.0\arvore.runtimeconfig.json
+C:\Users\Aluno\Desktop\arvore\arvore\bin\Debug\net6.0\arvore.dll
+C:\Users\Aluno\Desktop\arvore\arvore\bin\Debug\net6.0\arvore.pdb
+C:\Users\Aluno\Desktop\arvore\arvore\obj\Debug\net6.0\arvore.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\arvore\arvore\obj\Debug\net6.0\arvore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\arvore\arvore\obj\Debug\net6.0\arvore.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\arvore\arvore\obj\Debug\net6.0\arvore.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\arvore\arvore\obj\Debug\net6.0\arvore.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\arvore\arvore\obj\Debug\net6.0\arvore.dll
+C:\Users\Aluno\Desktop\arvore\arvore\obj\Debug\net6.0\refint\arvore.dll
+C:\Users\Aluno\Desktop\arvore\arvore\obj\Debug\net6.0\arvore.pdb
+C:\Users\Aluno\Desktop\arvore\arvore\obj\Debug\net6.0\arvore.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\arvore\arvore\obj\Debug\net6.0\ref\arvore.dll
